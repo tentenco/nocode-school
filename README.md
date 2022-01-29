@@ -189,3 +189,15 @@ Webflow大學有一些很好的教程和快速課程，但並不是要帶你完�
 
 ##### 本課程與《網頁設計》有什麼不同？成為專業人士課程的差異再哪？
 MasterClass 課程是關於設計過程的。我們確實涵蓋了你在開發方面的選擇，但不包括實際實施中的細枝末節--這就是 Webflow 大師班的意義所在 你將學習到一個循序漸進的過程，使用 Webflow 將你的設計變成功能齊全、像素完美的網站。
+
+![Webflow MasterClass 教學大師班 by tenten](https://i.imgur.com/7qpmZNO.jpg)
+
+### 更多資源
+- [No-Code FB 社群 (中文)](https://www.facebook.com/groups/380840573814340)
+- 想要找尋 [Webflow 的接案](https://tenten.co/contact) 或是 [Webflow 設計師工作](https://www.cakeresume.com/companies/tenten)?
+- [Jasmine from NTU 於 Tenten 設計實習心得分享](https://tenten.co/insight/article/4month-intern-tenten/)
+- Discord (規劃中)
+- [Webflow MasterClass 線上教學](https://www.youtube.com/channel/UCOi68ITxdtM5wvEUaSG_XvQ)
+
+
+
